@@ -6,7 +6,7 @@
 
 #![feature(asm)]
 #![feature(box_syntax)]
-#![feature(collections)]
+// #![feature(collections)]
 #![feature(core)]
 #![feature(io)]
 #![feature(simd)]
